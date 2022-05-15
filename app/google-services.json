@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "914602411791",
+    "project_id": "ezmechanic-7f92e",
+    "storage_bucket": "ezmechanic-7f92e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914602411791:android:8f3a83cee01f3eeec8a07a",
+        "android_client_info": {
+          "package_name": "com.example.ezmechanic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914602411791-pq4jfcbnrkoli4enjqbsvp0mvgio6slj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx1Qfc_W7Tk55pLryoXnaPJM-MGLED1lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914602411791-pq4jfcbnrkoli4enjqbsvp0mvgio6slj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

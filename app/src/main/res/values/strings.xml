@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+    <string name="loginTextView">Login</string>
+    <string name="Welcome">Welcome</string>
+
+    <string name="enter_your_email_hereView">Enter email here</string>
+    <string name="enter_your_password_hereView">Enter your password here</string>
+    <string name="registerText">Register</string>
+    <string name="please_fill_out_the_form_belowText">Fill out the below form please</string>
+    <string name="enter_full_name_please">Enter first name</string>
+    <string name="enter_surname_please">Enter surname name</string>
+    <string name="confirmpassword">Confirm password</string>
+    <string name="back_to_login_pageText">Back to login page</string>
+    <string name="logoDescrip">Logo of app</string>
+    <string name="profileLogo">Logo of profile</string>
+    <string name="cameraLogo">Camera logo</string>
+    <string name="settingsLogo">settings logo</string>
+    <string name="emailLogo">email logo</string>
+
+    <string name="gallery">Gallery</string>
+    <string name="predict">Predict</string>
+    <string name="your_image_will_be_displayed_above">Your image will be displayed above!</string>
+    <string name="imageisnowdisplayed">Your image is displayed above!</string>
+    <string name="firstname">First name</string>
+    <string name="secondname">Second name</string>
+    <string name="email">Email</string>
+    <string name="loading...">Loading . . .</string>
+    <string name="object">The object is =</string>
+    <string name="probability">Accuracy score is =</string>
+    <string name="blankImage">an image</string>
+    <string name="enterEmailText">Enter the email that you registered with to receive a password reset link</string>
+    <string name="reset">RESET</string>
+
+
+</resources>
